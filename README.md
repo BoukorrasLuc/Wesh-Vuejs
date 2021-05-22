@@ -4,7 +4,6 @@
 
 ## About this project
 
-- Front-end project made with React.
 - Inspired by a Wish page.
 - The shopping cart is functional: you can add items and the total will be dynamically updated.
 - Search bar: look through the database for offer title matching the input.
