@@ -1,6 +1,6 @@
 # Wesh-VueJs
 
-<img src="https://res-console.cloudinary.com/dgu3expdz/thumbnails/v1/image/upload/v1621686915/d2lzaC1sb2dvLTgwMF9qOWdndWk" alt="Wesh logo" height="80px" />
+<img src="https://ibb.co/sQ5WBf1" alt="Wesh logo" height="80px" />
 
 ## About this project
 
