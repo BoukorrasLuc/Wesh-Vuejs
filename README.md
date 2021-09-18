@@ -1,6 +1,7 @@
 # Wesh-VueJs
 
-<img src="https://ibb.co/sQ5WBf1" alt="Wesh logo" height="80px" />
+![Screenshot](https://res.cloudinary.com/dgu3expdz/image/upload/v1621686915/wish-logo-800_j9ggui.png)
+
 
 ## About this project
 
